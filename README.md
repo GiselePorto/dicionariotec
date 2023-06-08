@@ -71,7 +71,12 @@
   <hr/> 
   ## *Back-End : Parte da programação que estuda os códigos por trás do design. É mais ligado à parte "invisível" do banco de dados dos códigos. Algumas linguagens usadas: JavaScript, phyton, Java.* <h2>
   
-  **Dicionário JavaScript**
+  
+  <hr/> 
+  
+  # DICIONÁRIO JAVASCRIPT 
+  
+ <hr/> 
   
    * **JavaScript** : Linguagem de programação que permite adicionar itens e comandos por meio de códigos. Há alguns códigos fixos que utilizamos no JS: 
      
