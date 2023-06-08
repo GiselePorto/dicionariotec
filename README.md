@@ -69,7 +69,8 @@
   
   
   <hr/> 
-  ## *Back-End : Parte da programação que estuda os códigos por trás do design. É mais ligado à parte "invisível" do banco de dados dos códigos. Algumas linguagens usadas: JavaScript, phyton, Java.* <h2>
+  
+   ## *Back-End : Parte da programação que estuda os códigos por trás do design. É mais ligado à parte "invisível" do banco de dados dos códigos. Algumas linguagens usadas: JavaScript, phyton, Java.* <h3>
   
   
   <hr/> 
