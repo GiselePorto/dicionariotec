@@ -58,6 +58,28 @@
   
   # **CSS** :  É uma linguagem de estilo que é composta por classes, que permitem estilizar as páginas desenvolvidas com HTML. <h5> 
   
+|            CLASS FONTS                      |                  FUNÇÃO                                                      |
+|--- |--- |
+| font                                         | Altera propriedades da fonte                                                | 
+| Font family                                  | Família da fonte, se é cursiva ou fantasy etc                               |                                          
+| Font size                                    | Tamanho da fonte                                                            |                    
+| Font style                                   | Altera estilo da fonte                                                      |                    
+| Font Variant                                 | Exibe o texto em pequena caixa-alta (versalete) ou fonte normal             |                    
+| Font Weight                                  | Peso da fonte (negrito, itálico)                                            |                 
+| font size                                    | Tamanho da fonte                                                            |                   
+  
+  
+|            CORES E FUNDOS                    |                  FUNÇÃO                                                    |
+|--- |--- |
+| Color                                       | Altera propriedades da cor do texto                                         | 
+| Background                                  | Altera propriedades do fundo                                                |
+| Background color                            | Altera cor de fundo do site                                                 |                                          
+| Background Image                            | Altera cor do elemento                                                      |                    
+| Background Repeat                           | Define se e como a imagem de fundo se repitirá                              |                    
+| Background Attachment                       | Define se a imagem de fundo será fixa ou com rolagem                        |                    
+| Background Position                         | Posição do fundo                                                            |                 
+                   
+  
   
   
   
