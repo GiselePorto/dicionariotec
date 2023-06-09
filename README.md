@@ -1,6 +1,6 @@
 # ***DICIONÁRIO TEC*** 🖥 <h1> 
   
-  ## *Olá! Sou aluna full-Stack em migração de carreira, encontrei uma dificuldade muito grande em saber termos tec. Nossa classe tem um projeto integrador chamado "DichTec", que será um dicionário tec voltado à pessoas da área da tecnologia ou não. No momento, estou fazendo um pequeno resumo/rascunho para colaborar com o projeto e me aperfeiçoar em termos. Espero que também seja útil para vocês.* 
+   ***Olá! Sou aluna full-Stack em migração de carreira, encontrei uma dificuldade muito grande em saber termos tec. Nossa classe tem um projeto integrador chamado "DichTec", que será um dicionário tec voltado à pessoas da área da tecnologia ou não. No momento, estou fazendo um pequeno resumo/rascunho para colaborar com o projeto e me aperfeiçoar em termos. Espero que também seja útil para vocês.***
   
   <hr/> 
   
