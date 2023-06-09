@@ -71,17 +71,55 @@
   
 |            CORES E FUNDOS                    |                  FUNÇÃO                                                    |
 |--- |--- |
-| Color                                       | Altera propriedades da cor do texto                                         | 
+| Color                                       | Altera propriedades da cor do texto                                         |
 | Background                                  | Altera propriedades do fundo                                                |
-| Background color                            | Altera cor de fundo do site                                                 |                                          
-| Background Image                            | Altera cor do elemento                                                      |                    
-| Background Repeat                           | Define se e como a imagem de fundo se repitirá                              |                    
-| Background Attachment                       | Define se a imagem de fundo será fixa ou com rolagem                        |                    
-| Background Position                         | Posição do fundo                                                            |                 
+| Background color                            | Altera cor de fundo do site                                                 |
+| Background Image                            | Altera cor do elemento                                                      |                       
+| Background Repeat                           | Define se e como a imagem de fundo se repitirá                              |
+| Background Attachment                       | Define se a imagem de fundo será fixa ou com rolagem                        |
+| Background Position                         | Posição do fundo                                                            |            
                    
+
+
+|            TEXTOS                           |                  FUNÇÃO                                                     |
+|--- |--- |
+| Text Indent                                 | Recuo à esquerda da primeira linha em um bloco de texto                     |
+| Text Align                                  | Alinhamento do texto (right, center, left, justify)                         |
+| Text Decoration                             | Efeitos decorativos do texto, como sublinhado, piscando, etc                |
+| Letter Spacing                              | Espaçamento entre caracteres                                                |                       
+| Word Spacing                                | Espaçamento entre palavras                                                  |
+| Text Transform                              | Letras em maiúsculas ou minúsculas (capitalize, uppercase, lowercase)       |
+| White Space                                 |  Definições sobre espaços em branco num determinado elemento                |  
   
   
+ |           TABELAS                          |                  FUNÇÃO                                                     |
+|--- |--- |
+| Caption Side                                | Posição do título na tabela (top, bottom)                                   |
+| Table Layout                                | Define o algoritmo usado para a renderização da tabela (auto, fixed)        |
+| Border Collapse                             | O modelo de bordas a ser utilizado                                          |
+| Border Spacing                              | Distância entre as bordas                                                   |                       
+| Empty Cells                                 | Visibilidade das bordas de células sem conteúdo                             |
+ 
   
+   |           ESPAÇAMENTO                    |                  FUNÇÃO                                                     |
+|--- |--- |
+| Padding Top                                 | Distância utilizada para espaçamento em Superior                            |
+| Padding Right                               | Distância utilizada para espaçamento em Direita                             |
+| Padding Left                                | Distância utilizada para espaçamento em Esquerda                            |
+| Padding Bottom                              | Distância utilizada para espaçamento em Inferior                            |                       
+| Padding                                     | Define de uma só vez a distância de espaçamento para todos os lados         |
+  
+  
+|            TEXTOS                           |                  FUNÇÃO                                                     |
+|--- |--- |
+| Text Indent                                 | Recuo à esquerda da primeira linha em um bloco de texto                     |
+| Text Align                                  | Alinhamento do texto (right, center, left, justify)                         |
+| Text Decoration                             | Efeitos decorativos do texto, como sublinhado, piscando, etc                |
+| Letter Spacing                              | Espaçamento entre caracteres                                                |                       
+| Word Spacing                                | Espaçamento entre palavras                                                  |
+| Text Transform                              | Letras em maiúsculas ou minúsculas (capitalize, uppercase, lowercase)       |
+| White Space                                 |  Definições sobre espaços em branco num determinado elemento                |  
+
   
   
   
