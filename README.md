@@ -1,6 +1,8 @@
 # ***DICIONÁRIO TEC*** 🖥 <h1> 
   
-  ## *Arquivo com significados sobre tecnologia para o projeto integrador.* <h2>
+  ## *Olá! Sou aluna full-Stack em migração de carreira e encontrei uma dificuldade muito grande em saber termos tec. Nossa classe tem um projeto integrador chamado "DichTec", que será um dicionário tec voltado à pessoas da área da tecnologia ou não. No momento, estou fazendo um pequeno resumo/rascunho para colaborar com o projeto e me aperfeiçoar em termos. Espero que também seja útil para vocês.* <h2>
+  
+  <hr/> 
   
   ## *Front-End : Parte da programação que estuda o design de sites e plataformas; A parte mais "visível" dos códigos. Algumas linguagens usadas: HTML, CSS.* <h3>
   
