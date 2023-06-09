@@ -47,7 +47,7 @@
   * **audio controls** : Insere controles no áudio, como pausa e velocidade.
   * **video controls** : Insere controles no vídeo, como pausa e velocidade. 
   * **mark** : Representa um trecho de destaque em um texto.
-  * **Negrito < b > e < /b > : Representa um techo em negrito de um texto.
+  * **Negrito < b > e < /b >** : Representa um techo em negrito de um texto.
   
   <hr/> 
   
