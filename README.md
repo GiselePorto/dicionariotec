@@ -14,7 +14,10 @@
   
  <hr/> 
   
-  # DICIONÁRIO HTML 
+  # DICIONÁRIO HTML:
+ 
+ ![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/981aa039-656b-447a-bb60-64d255be33cb)
+
   
  <hr/> 
      
@@ -59,7 +62,10 @@
   
   <hr/> 
   
-  # DICIONÁRIO CSS
+  # DICIONÁRIO CSS:
+ 
+ ![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/619ea490-85f5-40b0-8a77-b23d29b4471e)
+
   
  <hr/> 
       
@@ -143,7 +149,11 @@
   
   <hr/> 
   
-  # DICIONÁRIO JAVASCRIPT 
+  # DICIONÁRIO JAVASCRIPT:
+ 
+![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/aeb3ba15-bce5-46ab-a168-e59ec17f3d9c)
+
+
   
  <hr/> 
   
@@ -162,5 +172,43 @@
   
   
   * **Full-Stack** : Junção do Front-End com o Back-End. Geralmente, quem é Full-Stack Developer estuda os dois módulos, mas escolhe apenas um para se aprofundar por ter uma maior "afinidade".
-  
  
+ <hr/>
+ 
+  # COMO USAR GIT:
+  
+![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/b0f1bbbb-c81e-49a5-9865-1b14a3958cb6)
+
+
+ ## Como configurar usuário GitHub no seu Git: 
+ 
+ 1. Criar uma pasta com seu nome em documentos.
+ 2. Abrir pasta no VScode e abrir terminal.
+ 3. No canto direito, setinha de +, clique em GIT BASH.
+ 4. Coloque git config --global user.name (seu nome de usuário aqui).
+ 5. Em seguida, git config --global user.email (seu email aqui).
+ 6. Digite git status para vericar se está logado corretamente.
+ 
+  ## Como clonar um repositório do Github para seu computador: 
+ 
+ 1. Abra o repositório que você deseja clonar.
+ 2. Clique no nome "<>Code".
+ 3. Copie o link que está abaixo.
+ 4. Abra na pasta onde você deseja clonar o repositório.
+ 5. Não precisa criar pasta, o repositório já criará sozinho.
+ 6. Clique com o botão direito do mouse no local desejado > mais opções > GitBash Here
+ 7. Digite o comando git clone.
+ 8. Ctrl V não funciona no git. Use Shift+Insert para colar o link do lado de git clone.
+ 9. Git status para verificar se foi clonado corretamente.
+ 
+  ## Como subir um repositório do Git para o Github: 
+ 
+ 1. Crie um repositório no Github. (Se for com READEME.md, ignore o tópico 5)
+ 2. Clique na pasta a qual você quer subir como repositório.
+ 3. Clique com o botão direito > mais opções > GitBash Here.
+ 4. Digite o comando git init > enter.
+ 5. Digite git add README.md > enter. (Opcional, não precisa colocar esse comando se você já criou o repositório com o README.md)
+ 6. Digite git commit -m " (seu commit aqui) " > enter.
+ 7. Digite git remote add origin (adicione o url do repositório criado no Github.) > enter.
+ 8. Digite git push -u origin master > enter. 
+ 9. Git status para verificar se foi enviado corretamente.
