@@ -1,8 +1,5 @@
 # ***DICIONÁRIO TEC*** 🖥 <h1> 
-  
-![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/3b206b57-162d-42eb-a0ab-4b34274a69a8)
-
-
+  ![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/3e4ddb08-c240-4392-82e5-044b95642de9)
 
 
    ***Olá! Sou aluna full-Stack no SenacPE em parceira com porto digital M.I.N.A.S. Na minha migração de carreira, encontrei uma dificuldade muito grande em saber termos tec. Nossa classe tem um projeto integrador chamado "DichTec", que será um dicionário tec voltado à pessoas da área da tecnologia ou não. No momento, estou fazendo um pequeno resumo/rascunho para colaborar com o projeto e me aperfeiçoar em termos. Espero que também seja útil para vocês.***
