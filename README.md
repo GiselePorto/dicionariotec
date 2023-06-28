@@ -1,9 +1,10 @@
-# ***DICIONÁRIO TEC*** ![icons8-laptop-48](https://github.com/GiselePorto/dicionariotec/assets/132604471/a47e540b-03c3-40a3-baf8-d70dc7e13c67) <h1>
+# ***DICIONÁRIO TEC*** <h1>
 
+<hr/>
 
- ![imagem1](https://github.com/GiselePorto/dicionariotec/assets/132604471/fbfd6cfe-5219-4623-b9b9-7b8e58789f7d)
+![Hello World](https://github.com/GiselePorto/dicionariotec/assets/132604471/6f22c9c3-a401-43e1-916d-c3275ff78fd7)
 
-
+<hr/>
 
 
    ***Olá! Sou aluna full-Stack no SenacPE em parceira com porto digital M.I.N.A.S. Na minha migração de carreira, encontrei uma dificuldade muito grande em saber termos tec. Nossa classe tem um projeto integrador chamado "DichTec", que será um dicionário tec voltado à pessoas da área da tecnologia ou não. No momento, estou fazendo um pequeno resumo/rascunho para colaborar com o projeto e me aperfeiçoar em termos. Espero que também seja útil para vocês.***
@@ -16,7 +17,8 @@
   
   # DICIONÁRIO HTML:
  
- ![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/981aa039-656b-447a-bb60-64d255be33cb)
+ ![img html](https://github.com/GiselePorto/dicionariotec/assets/132604471/e589390c-a22e-47e6-b326-62e593156037)
+
 
   
  <hr/> 
@@ -64,7 +66,7 @@
   
   # DICIONÁRIO CSS:
  
- ![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/619ea490-85f5-40b0-8a77-b23d29b4471e)
+![img css](https://github.com/GiselePorto/dicionariotec/assets/132604471/d39b6a6d-52a6-49db-82f0-10d528c1cb0f)
 
   
  <hr/> 
@@ -151,7 +153,8 @@
   
   # DICIONÁRIO JAVASCRIPT:
  
-![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/aeb3ba15-bce5-46ab-a168-e59ec17f3d9c)
+![img javascript](https://github.com/GiselePorto/dicionariotec/assets/132604471/11123873-bf91-4449-9c47-96641a41e048)
+
 
 
   
@@ -177,7 +180,20 @@
  
   # COMO USAR GIT:
   
-![image](https://github.com/GiselePorto/dicionariotec/assets/132604471/b0f1bbbb-c81e-49a5-9865-1b14a3958cb6)
+![img git do google](https://github.com/GiselePorto/dicionariotec/assets/132604471/a69de0f9-5ebe-43c9-a1e1-2a9c48f046d7)
+
+<hr/>
+
+ ## Alguns comandos Git: 
+
+    |           COMANDO                   |                  FUNÇÃO                                                     |
+|--- |--- |
+| Git Init                                    | Inicializa novo repositório do Git                                          |
+| Git commit                                  | Faz um commit do instantâneo preparado no histórico do projeto              |
+| git commit --amend                          | ao git commit permite corrigir o commit mais recente.                       |
+| git fetch                                   | Faz o download da ramificação de outro repositório, commits e arquivos associados.       |                       
+| git pull                                    | É a versão automatizada do git fetch.                                       |
+
 
 
  ## Como configurar usuário GitHub no seu Git: 
