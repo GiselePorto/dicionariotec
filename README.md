@@ -186,15 +186,6 @@
 
  ## Alguns comandos Git: 
 
-    |           COMANDO                   |                  FUNÇÃO                                                     |
-|--- |--- |
-| Git Init                                    | Inicializa novo repositório do Git                                          |
-| Git commit                                  | Faz um commit do instantâneo preparado no histórico do projeto              |
-| git commit --amend                          | ao git commit permite corrigir o commit mais recente.                       |
-| git fetch                                   | Faz o download da ramificação de outro repositório, commits e arquivos associados.       |                       
-| git pull                                    | É a versão automatizada do git fetch.                                       |
-
-
 
  ## Como configurar usuário GitHub no seu Git: 
  
